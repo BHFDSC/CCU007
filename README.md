@@ -2,11 +2,11 @@
 
 ## Project description
 
-Patients with Congenital Heart Disease (CHD) represent a high-risk population. However, the immediate and long-term care of CHD patients requiring surgical intervention during the COVID-19 pandemic remains unknown. Such information is essential to make informed decisions regarding the balance of risk between delaying surgery or not, and if so what length of delay remains safe.  Also for children with CHD, does any increased risk mean that their future health and wellbeing is maximised by continued home-schooling until there is an effective vaccine (or eradication), or is their additional risk sufficiently low for some children with CHD that returning to school and normal education would be best.
+Thirteen babies in the UK are born with congenital heart disease (CHD) every day, and most of these children will need several high-risk operations and treatments during their lives. There is currently very limited information available regarding how delays to treatment caused by the COVID-19 pandemic have affected children and young adults with CHD undergoing these very high-risk interventions.
 
-We have conducted an initial pilot study, which collected clinical data before and after the lockdown to provide initial evidence on outcomes after surgery for CHD during the pandemic and the probability to contract COVID-19 infection and the consequence outcome during hospitalisation. 
+We will be using healthcare records from England, Wales and Scotland to better understand the risks between delaying surgery because of the pandemic or not, and if so what length of delay remains safe for children with CHD. We will also evaluate whether the COVID-19 pandemic has affected the future health and wellbeing of these children and young adults with CHD. This will include seeing if there is impact on their schooling and education, and whether there are any differences in the impact of the pandemic on young patients with CHD based on race and ethnicity.
 
-Our final goal is to have access to the national dataset to investigate differences in case mix and incidence and patterns of complications in patients requiring heart surgery for CHD during the pandemic, along with the incidence of COVID 19 infection during hospitalisation. 
+The information obtained from this research will allow for better planning of operations and treatments, aiming to improve health outcomes for children and young adults with CHD. The findings of this project will help patients and clinicians to make more informed decisions during these challenging pandemic times.
 
 ## Project approval
 
