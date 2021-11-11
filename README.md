@@ -8,6 +8,14 @@ We will be using healthcare records from England, Wales and Scotland to better u
 
 The information obtained from this research will allow for better planning of operations and treatments, aiming to improve health outcomes for children and young adults with CHD. The findings of this project will help patients and clinicians to make more informed decisions during these challenging pandemic times.
 
+## Sub-projects
+
+The issues outlined above will be addressed in outputs from a number of related sub-projects.  Follow the links below to view repositories containing the protocol, data curation and analysis code, and phenotyping algorithms and codelists for each sub-project:
+
+* [CCU007_01: The impact of COVID-19 and lockdowns on children with congenital heart diseases and their management](https://github.com/BHFDSC/CCU007_01)
+
+> Links to repositories for additional outputs will follow in due course.
+
 ## Project approval
 
-This project has been approved by the CVD-COVID-UK Approvals & Oversight Board (Project ID: CCU007).
+This project has been approved by the CVD-COVID-UK/COVID-IMPACT Approvals & Oversight Board (Project ID: CCU007).
