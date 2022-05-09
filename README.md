@@ -1,12 +1,16 @@
-# Impact of COVID-19 pandemic on Congenital Heart Disease (CHD) patients undergoing cardiac surgery
+# Impact of COVID-19 pandemic on heart disease patients undergoing cardiac surgery
 
 ## Project description
 
-Thirteen babies in the UK are born with congenital heart disease (CHD) every day, and most of these children will need several high-risk operations and treatments during their lives. There is currently very limited information available regarding how delays to treatment caused by the COVID-19 pandemic have affected children and young adults with CHD undergoing these very high-risk interventions.
+Cardiac surgery is a necessary life-extending/saving procedure required by many adults and children every day in the UK. Despite it being prioritised during the COVID-19 pandemic, the true impact of the latter on case volume and outcome are unknown. The COVID-19 pandemic may significantly increase procedural morbidity and mortality. Patients who present with COVID-19 infection before surgery or patients who develop COVID-19 infection following surgery may be particularly vulnerable to the serious consequences of COVID-19 infection including respiratory, heart and renal failure. Moreover, the pandemic can affect outcomes following cardiac surgery due to limited resources including shortages of staff and equipment. 
 
-We will be using healthcare records from England, Wales and Scotland to better understand the risks between delaying surgery because of the pandemic or not, and if so what length of delay remains safe for children with CHD. We will also evaluate whether the COVID-19 pandemic has affected the future health and wellbeing of these children and young adults with CHD. This will include seeing if there is impact on their schooling and education, and whether there are any differences in the impact of the pandemic on young patients with CHD based on race and ethnicity.
+Thirteen babies in the UK are born with congenital heart disease every day, and most of these children as well as adults who experience heart disease will need several high-risk operations and treatments during their lives. There is currently very limited information available regarding how delays to treatment caused by the COVID-19 pandemic have affected children and adults with heart disease undergoing these very high-risk interventions.
 
-The information obtained from this research will allow for better planning of operations and treatments, aiming to improve health outcomes for children and young adults with CHD. The findings of this project will help patients and clinicians to make more informed decisions during these challenging pandemic times.
+Whether case mix and clinical outcomes differ from those achieved during normal operating conditions is also unknown. Moreover, individualised risk estimation in patients undergoing cardiac surgery accounting for COVID-19 exposure is to be determined. Therefore, there is an urgent need to assess the impact of the COVID-19 pandemic on outcomes following cardiac surgery to guide current and future clinical decision making.
+
+We will be using available healthcare records from England and Wales to better understand the risks between delaying surgery because of the pandemic or not, and if so what length of delay remains safe for children and adults with heart disease. We will also evaluate whether the COVID-19 pandemic has affected the future health and wellbeing of these children and adults with heart disease. This will include seeing if there is impact of the pandemic on patients based on race and ethnicity.
+
+The information obtained from this research will allow for better planning of operations and treatments, aiming to improve health outcomes for children and adults with heart disease. The findings of this project will help patients and clinicians to make more informed decisions during these challenging pandemic times.
 
 ## Sub-projects
 
