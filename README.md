@@ -16,7 +16,7 @@ The information obtained from this research will allow for better planning of op
 
 The issues outlined above will be addressed in outputs from a number of related sub-projects.  Follow the links below to view repositories containing the protocol, data curation and analysis code, and phenotyping algorithms and codelists for each sub-project:
 
-* [CCU007_01: Impact of COVID-19 pandemic on rates of congenital heart disease procedures among children: Prospective cohort analyses of 26,270 procedures in 17,860 children using CVD-COVID-UK consortium record linkage data](https://github.com/BHFDSC/CCU007_01)
+* [CCU007_01: Impact of COVID-19 pandemic on rates of congenital heart disease procedures among children: prospective cohort analyses of 26 270 procedures in 17 860 children using CVD-COVID-UK consortium record linkage data](https://github.com/BHFDSC/CCU007_01)
 * [CCU007_03: Peripandemic outcomes of infants treated for sentinel congenital heart diseases in England and Wales](https://github.com/BHFDSC/CCU007_03)
 * [CCU007_11: Hospital readmission after heart valve surgery in the United Kingdom](https://github.com/BHFDSC/CCU007_11)
 
